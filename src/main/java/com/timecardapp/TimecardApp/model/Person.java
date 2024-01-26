@@ -15,6 +15,7 @@ public class Person {
     private String lastName;
 
     public Person() {
+
     }
 
     public Person(int id, ArrayList<TimeCard> timeCards, String firstName, String lastName) {
