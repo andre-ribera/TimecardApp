@@ -1,2 +1,0 @@
-# TimecardApp
-Timecard App
